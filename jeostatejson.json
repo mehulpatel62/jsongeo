@@ -3,6 +3,7 @@
   "features": [
     {
       "type": "Feature",
+      "id":"EAST",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -70,7 +71,7 @@
           ]
         ]
       },
-      "properties": {}
+      "properties": {"name":"EASTINDIA"}
     }
   ]
 },
@@ -79,6 +80,7 @@
   "features": [
     {
       "type": "Feature",
+      "id":"SOUTH",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -130,7 +132,7 @@
           ]
         ]
       },
-      "properties": {}
+      "properties": {"name":"SOUTHINDIA"}
     }
   ]
 }
