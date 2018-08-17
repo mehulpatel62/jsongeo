@@ -303,7 +303,7 @@
         ]
       },
       "properties": {
-        "name": "southern zone",
+        "name": "South",
         "marker-color": "#0000ff",
         "marker-symbol": "rail-metro",
         "line": "blue"
@@ -991,7 +991,7 @@
         ]
       },
       "properties": {
-        "name": "western zone",
+        "name": "West",
         "marker-color": "#0000ff",
         "marker-symbol": "rail-metro",
         "line": "red"
@@ -1448,7 +1448,7 @@
         ]
       },
       "properties": {
-        "name": "northen zone",
+        "name": "North",
         "marker-color": "#0000ff",
         "marker-symbol": "rail-metro",
         "line": "yellow"
@@ -1724,7 +1724,7 @@
         ]
       },
       "properties": {
-        "name": "northen east zone second part",
+        "name": "East",
         "marker-color": "#c4000f",
         "marker-symbol": "rail-metro",
         "line": "white"
@@ -2048,7 +2048,7 @@
         ]
       },
       "properties": {
-        "name": "eastern part",
+        "name": "NorthEast",
         "marker-color": "#c4000f",
         "marker-symbol": "rail-metro",
         "line": "white"
