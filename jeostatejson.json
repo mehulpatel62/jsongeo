@@ -997,8 +997,7 @@
         "line": "red"
       }
     }
-  ]
-},
+ ,
     {
       "type": "Feature",
       "geometry": {
@@ -1455,5 +1454,4 @@
         "line": "yellow"
       }
     }
-  ]
-}
+ 
