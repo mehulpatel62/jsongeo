@@ -1219,6 +1219,6 @@
         "name": "eastern zone",
         "marker-color": "#0000ff",
         "marker-symbol": "rail-metro",
-        "line": "blue"
+        "line": "green"
       }
     }
