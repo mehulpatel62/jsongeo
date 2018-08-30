@@ -1,0 +1,1379 @@
+[
+  {
+    "region": [
+      {
+        "pumps": [
+          {
+            "_id": "5b8640638e41320ecf3a4672",
+            "name": "7th Cross Rd, Sector II",
+            "__v": 0,
+            "score": "57",
+            "address": "9 No. Island, 7th Cross Rd, Sector II, Kolkata, West Bengal 700091",
+            "phoneNumber": 97555,
+            "npsScore": "54",
+            "problemeticalArea": [
+              {
+                "_id": "5b8640638e41320ecf3a4675",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8640638e41320ecf3a4674",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8640638e41320ecf3a4673",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ]
+          },
+          {
+            "_id": "5b86408a8e41320ecf3a4676",
+            "name": "HP PETROL PUMP - SUNBEAM SERVICE STATION",
+            "__v": 0,
+            "score": "68",
+            "address": "213, Sarat Bose Rd, Lake Market, Kalighat, Kolkata, West Bengal 700029",
+            "phoneNumber": 98362,
+            "npsScore": "67",
+            "problemeticalArea": [
+              {
+                "_id": "5b86408a8e41320ecf3a4679",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b86408a8e41320ecf3a4678",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b86408a8e41320ecf3a4677",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ]
+          },
+          {
+            "_id": "5b8640b08e41320ecf3a467a",
+            "name": "HP PETROL PUMP - SODEPUR FILLING STATION",
+            "score": "94",
+            "address": "B. T. Road Sodepur, Kolkata, West Bengal 700110",
+            "phoneNumber": 98300,
+            "npsScore": "93",
+            "problemeticalArea": [
+              {
+                "_id": "5b8640b08e41320ecf3a467d",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8640b08e41320ecf3a467c",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8640b08e41320ecf3a467b",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b8640d38e41320ecf3a467e",
+            "name": "HP PETROL PUMP - DAGA AUTO SERVICE PVT LTD",
+            "score": "55",
+            "address": "7/1, Ashutosh Mukherjee Road Kolkata Calcutta, Kolkata, West Bengal 700020",
+            "phoneNumber": 93397,
+            "npsScore": "56",
+            "problemeticalArea": [
+              {
+                "_id": "5b8640d38e41320ecf3a4681",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8640d38e41320ecf3a4680",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8640d38e41320ecf3a467f",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b8641008e41320ecf3a4682",
+            "name": "HP Petrol Pump Balaji Service Center",
+            "score": "68",
+            "address": "DN-60, Sector - V, Salt Lake City, Kolkata, 700091",
+            "phoneNumber": 33,
+            "npsScore": "66",
+            "problemeticalArea": [
+              {
+                "_id": "5b8641008e41320ecf3a4685",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8641008e41320ecf3a4684",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8641008e41320ecf3a4683",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          }
+        ],
+        "_id": "5b8636b84998ad01b6c36431",
+        "name": "Kolkata",
+        "__v": 0,
+        "score": "56",
+        "npsScore": "55",
+        "problemeticalArea": [
+          {
+            "_id": "5b8636b84998ad01b6c36434",
+            "name": "toilet",
+            "perDistribution": 22
+          },
+          {
+            "_id": "5b8636b84998ad01b6c36433",
+            "name": "staff behaviour",
+            "perDistribution": 45
+          },
+          {
+            "_id": "5b8636b84998ad01b6c36432",
+            "name": "cleanliness",
+            "perDistribution": 50
+          }
+        ]
+      }
+    ],
+    "_id": "5b862e5af727df7dd4960894",
+    "name": "East",
+    "__v": 0,
+    "score": "52",
+    "npsScore": "63",
+    "problemeticalArea": [
+      {
+        "_id": "5b862e5af727df7dd4960897",
+        "name": "toilet",
+        "perDistribution": 70
+      },
+      {
+        "_id": "5b862e5af727df7dd4960896",
+        "name": "staff behaviour",
+        "perDistribution": 50
+      },
+      {
+        "_id": "5b862e5af727df7dd4960895",
+        "name": "cleanliness",
+        "perDistribution": 82
+      }
+    ]
+  },
+  {
+    "region": [
+      {
+        "pumps": [
+          {
+            "_id": "5b863f588e41320ecf3a465e",
+            "name": "HP Fuel Station",
+            "__v": 0,
+            "score": "62",
+            "address": "Kings Cir, Matunga, Mumbai, Maharashtra 400019",
+            "phoneNumber": 22,
+            "npsScore": "68",
+            "problemeticalArea": [
+              {
+                "_id": "5b863f588e41320ecf3a4661",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b863f588e41320ecf3a4660",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b863f588e41320ecf3a465f",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ]
+          },
+          {
+            "_id": "5b863f858e41320ecf3a4662",
+            "name": "HP Petrol Pump, Sonal Super Service",
+            "__v": 0,
+            "score": "62",
+            "address": "Mathuradas Mill Compound, Compou- ND, Delisle Rd, Lower Parel, Mumbai, Maharashtra 400011",
+            "phoneNumber": 98193,
+            "npsScore": "68",
+            "problemeticalArea": [
+              {
+                "_id": "5b863f858e41320ecf3a4665",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b863f858e41320ecf3a4664",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b863f858e41320ecf3a4663",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ]
+          },
+          {
+            "_id": "5b863fc18e41320ecf3a4666",
+            "name": "Bandra West",
+            "score": "71",
+            "address": "S, 261, Swami Vivekananda Rd, Bandra West, Mumbai, Maharashtra 400050",
+            "phoneNumber": 98206,
+            "npsScore": "77",
+            "problemeticalArea": [
+              {
+                "_id": "5b863fc18e41320ecf3a4669",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b863fc18e41320ecf3a4668",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b863fc18e41320ecf3a4667",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b863fea8e41320ecf3a466a",
+            "name": "HP Petrol Pump- Mukundrai Damji",
+            "score": "59",
+            "address": "163, Lady Jamshedji Road, Mahim West, Matunga, Mumbai, Maharashtra 400016",
+            "phoneNumber": 98208,
+            "npsScore": "62",
+            "problemeticalArea": [
+              {
+                "_id": "5b863fea8e41320ecf3a466d",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b863fea8e41320ecf3a466c",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b863fea8e41320ecf3a466b",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b8640228e41320ecf3a466e",
+            "name": "HP PETROL PUMP HIND AUTO,MAHIM",
+            "score": "57",
+            "address": "52, Lady Jamshedji Rd, Mahim West, Mahim, Mumbai, Maharashtra 400016",
+            "phoneNumber": 22,
+            "npsScore": "54",
+            "problemeticalArea": [
+              {
+                "_id": "5b8640228e41320ecf3a4671",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8640228e41320ecf3a4670",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8640228e41320ecf3a466f",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          }
+        ],
+        "_id": "5b8636524998ad01b6c3641d",
+        "name": "Mumbai",
+        "__v": 0,
+        "score": "90",
+        "npsScore": "85",
+        "problemeticalArea": [
+          {
+            "_id": "5b8636524998ad01b6c36420",
+            "name": "toilet",
+            "perDistribution": 22
+          },
+          {
+            "_id": "5b8636524998ad01b6c3641f",
+            "name": "staff behaviour",
+            "perDistribution": 45
+          },
+          {
+            "_id": "5b8636524998ad01b6c3641e",
+            "name": "cleanliness",
+            "perDistribution": 50
+          }
+        ]
+      },
+      {
+        "pumps": [
+          {
+            "_id": "5b863da28e41320ecf3a464a",
+            "name": "Judges Bunglow Road",
+            "__v": 0,
+            "score": "48",
+            "address": "Plot NO.42/3, opp Mansi Towers, Judges Bunglow Road, Vastrapur, Ahmedabad, Gujarat 380015",
+            "phoneNumber": 97243,
+            "npsScore": "45",
+            "problemeticalArea": [
+              {
+                "_id": "5b863da28e41320ecf3a464d",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b863da28e41320ecf3a464c",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b863da28e41320ecf3a464b",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ]
+          },
+          {
+            "_id": "5b863ddf8e41320ecf3a464e",
+            "name": "Usmanpura",
+            "__v": 0,
+            "score": "52",
+            "address": "Ashram Rd, Usmanpura, Ahmedabad, Gujarat 380009",
+            "phoneNumber": 97255,
+            "npsScore": "54",
+            "problemeticalArea": [
+              {
+                "_id": "5b863ddf8e41320ecf3a4651",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b863ddf8e41320ecf3a4650",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b863ddf8e41320ecf3a464f",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ]
+          },
+          {
+            "_id": "5b863e198e41320ecf3a4652",
+            "name": "Bodakdev",
+            "score": "66",
+            "address": "HP PET Pump, Plot.31 Near Satyagraha Chavni, Bodakdev, Ahmedabad, Gujarat 380054",
+            "phoneNumber": null,
+            "npsScore": "65",
+            "problemeticalArea": [
+              {
+                "_id": "5b863e198e41320ecf3a4655",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b863e198e41320ecf3a4654",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b863e198e41320ecf3a4653",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b863e5a8e41320ecf3a4656",
+            "name": "Jivraj Park",
+            "score": "33",
+            "address": "Plot#543/551 Vjlpr, Near Jivraj Park, Ahmedabad, Gujarat 380051",
+            "phoneNumber": 87339,
+            "npsScore": "35",
+            "problemeticalArea": [
+              {
+                "_id": "5b863e5a8e41320ecf3a4659",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b863e5a8e41320ecf3a4658",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b863e5a8e41320ecf3a4657",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b863e9d8e41320ecf3a465a",
+            "name": "J Rasiklal And Company",
+            "score": "44",
+            "address": "Outside Shapur Gate, Ahmedabad, Gujarat 380004",
+            "phoneNumber": 98240,
+            "npsScore": "46",
+            "problemeticalArea": [
+              {
+                "_id": "5b863e9d8e41320ecf3a465d",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b863e9d8e41320ecf3a465c",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b863e9d8e41320ecf3a465b",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          }
+        ],
+        "_id": "5b8636614998ad01b6c36421",
+        "name": "Ahmedabad",
+        "__v": 0,
+        "score": "85",
+        "npsScore": "84",
+        "problemeticalArea": [
+          {
+            "_id": "5b8636614998ad01b6c36424",
+            "name": "toilet",
+            "perDistribution": 22
+          },
+          {
+            "_id": "5b8636614998ad01b6c36423",
+            "name": "staff behaviour",
+            "perDistribution": 45
+          },
+          {
+            "_id": "5b8636614998ad01b6c36422",
+            "name": "cleanliness",
+            "perDistribution": 50
+          }
+        ]
+      },
+      {
+        "pumps": [
+          {
+            "_id": "5b86413e8e41320ecf3a4686",
+            "name": "HP Petrol Pump Shri. Venkateshwara Petroleum",
+            "__v": 0,
+            "score": "76",
+            "address": "Survey NO 23/1, Mundhwa Bypass, Tukaram Nagar, Kharadi, Pune, Maharashtra 411014",
+            "phoneNumber": 20,
+            "npsScore": "78",
+            "problemeticalArea": [
+              {
+                "_id": "5b86413e8e41320ecf3a4689",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b86413e8e41320ecf3a4688",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b86413e8e41320ecf3a4687",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ]
+          },
+          {
+            "_id": "5b86416a8e41320ecf3a468a",
+            "name": "Pune-solapur RD Hadapsar TAL Haveli",
+            "__v": 0,
+            "score": "95",
+            "address": "Pune-solapur RD Hadapsar TAL Haveli, Pune, Maharashtra 411028",
+            "phoneNumber": 20,
+            "npsScore": "98",
+            "problemeticalArea": [
+              {
+                "_id": "5b86416a8e41320ecf3a468d",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b86416a8e41320ecf3a468c",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b86416a8e41320ecf3a468b",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ]
+          },
+          {
+            "_id": "5b8641988e41320ecf3a468e",
+            "name": "Koregaon Park Road",
+            "score": "65",
+            "address": "Koregaon Park Road, Pune, Maharashtra 411001",
+            "phoneNumber": 98222,
+            "npsScore": "65",
+            "problemeticalArea": [
+              {
+                "_id": "5b8641988e41320ecf3a4691",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8641988e41320ecf3a4690",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8641988e41320ecf3a468f",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b8641c08e41320ecf3a4692",
+            "name": "Solapur - Pune Hwy",
+            "score": "75",
+            "address": "Solapur - Pune Hwy, Pune, Maharashtra 412307",
+            "phoneNumber": null,
+            "npsScore": "77",
+            "problemeticalArea": [
+              {
+                "_id": "5b8641c08e41320ecf3a4695",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8641c08e41320ecf3a4694",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8641c08e41320ecf3a4693",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b8641e48e41320ecf3a4696",
+            "name": "9/B, Synagogue Stree",
+            "score": "44",
+            "address": "9/B, Synagogue Street, Pune, Maharashtra 411001",
+            "phoneNumber": 98221,
+            "npsScore": "48",
+            "problemeticalArea": [
+              {
+                "_id": "5b8641e48e41320ecf3a4699",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8641e48e41320ecf3a4698",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8641e48e41320ecf3a4697",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          }
+        ],
+        "_id": "5b8636764998ad01b6c36425",
+        "name": "Pune",
+        "__v": 0,
+        "score": "94",
+        "npsScore": "93",
+        "problemeticalArea": [
+          {
+            "_id": "5b8636764998ad01b6c36428",
+            "name": "toilet",
+            "perDistribution": 22
+          },
+          {
+            "_id": "5b8636764998ad01b6c36427",
+            "name": "staff behaviour",
+            "perDistribution": 45
+          },
+          {
+            "_id": "5b8636764998ad01b6c36426",
+            "name": "cleanliness",
+            "perDistribution": 50
+          }
+        ]
+      }
+    ],
+    "_id": "5b862e87f727df7dd4960898",
+    "name": "West",
+    "__v": 0,
+    "score": "44",
+    "npsScore": "62",
+    "problemeticalArea": [
+      {
+        "_id": "5b862e87f727df7dd496089b",
+        "name": "toilet",
+        "perDistribution": 20
+      },
+      {
+        "_id": "5b862e87f727df7dd496089a",
+        "name": "staff behaviour",
+        "perDistribution": 70
+      },
+      {
+        "_id": "5b862e87f727df7dd4960899",
+        "name": "cleanliness",
+        "perDistribution": 82
+      }
+    ]
+  },
+  {
+    "region": [
+      {
+        "pumps": [
+          {
+            "_id": "5b86421b8e41320ecf3a469a",
+            "name": "HP PETROL PUMP - BEDI MOTORS",
+            "__v": 0,
+            "score": "48",
+            "address": "Lok Kalyan Marg, Safdarjang's Tomb, Delhi Race Club, New Delhi, Delhi 110003",
+            "phoneNumber": 98104,
+            "npsScore": "48",
+            "problemeticalArea": [
+              {
+                "_id": "5b86421b8e41320ecf3a469d",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b86421b8e41320ecf3a469c",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b86421b8e41320ecf3a469b",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ]
+          },
+          {
+            "_id": "5b86423f8e41320ecf3a469e",
+            "name": "HP Petrol Pump Central Service Station",
+            "__v": 0,
+            "score": "58",
+            "address": "E-24, Connaught Place, New Delhi, Delhi 110001",
+            "phoneNumber": 98100,
+            "npsScore": "56",
+            "problemeticalArea": [
+              {
+                "_id": "5b86423f8e41320ecf3a46a1",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b86423f8e41320ecf3a46a0",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b86423f8e41320ecf3a469f",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ]
+          },
+          {
+            "_id": "5b8642678e41320ecf3a46a2",
+            "name": "Humayun Road",
+            "score": "65",
+            "address": "Humayun Road, Opp to Khan Market, New Delhi, Delhi 110003",
+            "phoneNumber": 98117,
+            "npsScore": "66",
+            "problemeticalArea": [
+              {
+                "_id": "5b8642678e41320ecf3a46a5",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8642678e41320ecf3a46a4",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8642678e41320ecf3a46a3",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b8642898e41320ecf3a46a6",
+            "name": "HP Petrol Pump - Badrinath & Sons",
+            "score": "68",
+            "address": "Bouleward Road, Kamla Nehru Ridge, Civil Lines, New Delhi, Delhi 110054",
+            "phoneNumber": 98100,
+            "npsScore": "69",
+            "problemeticalArea": [
+              {
+                "_id": "5b8642898e41320ecf3a46a9",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8642898e41320ecf3a46a8",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8642898e41320ecf3a46a7",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b8642ab8e41320ecf3a46aa",
+            "name": "HP Petrol Pump - Dhaula Kuan Service Station",
+            "score": "72",
+            "address": "Dhaula Kuan , Near R.R Hospital, NH 8, Delhi Cantonment, New Delhi, Delhi 110010",
+            "phoneNumber": 88266,
+            "npsScore": "75",
+            "problemeticalArea": [
+              {
+                "_id": "5b8642ab8e41320ecf3a46ad",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8642ab8e41320ecf3a46ac",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8642ab8e41320ecf3a46ab",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          }
+        ],
+        "_id": "5b86368f4998ad01b6c36429",
+        "name": "Delhi",
+        "__v": 0,
+        "score": "85",
+        "npsScore": "83",
+        "problemeticalArea": [
+          {
+            "_id": "5b86368f4998ad01b6c3642c",
+            "name": "toilet",
+            "perDistribution": 22
+          },
+          {
+            "_id": "5b86368f4998ad01b6c3642b",
+            "name": "staff behaviour",
+            "perDistribution": 45
+          },
+          {
+            "_id": "5b86368f4998ad01b6c3642a",
+            "name": "cleanliness",
+            "perDistribution": 50
+          }
+        ]
+      },
+      {
+        "pumps": [
+          {
+            "_id": "5b8642e18e41320ecf3a46ae",
+            "name": "Gomti Nagar",
+            "__v": 0,
+            "score": "35",
+            "address": "CP -2 Lucknow, Vijayant Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+            "phoneNumber": 93356,
+            "npsScore": "36",
+            "problemeticalArea": [
+              {
+                "_id": "5b8642e18e41320ecf3a46b1",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8642e18e41320ecf3a46b0",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8642e18e41320ecf3a46af",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ]
+          },
+          {
+            "_id": "5b8643038e41320ecf3a46b2",
+            "name": "NishatGanj",
+            "__v": 0,
+            "score": "45",
+            "address": "Faizabad Road, NishatGanj, Lucknow, 226006",
+            "phoneNumber": 94150,
+            "npsScore": "46",
+            "problemeticalArea": [
+              {
+                "_id": "5b8643038e41320ecf3a46b5",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8643038e41320ecf3a46b4",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8643038e41320ecf3a46b3",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ]
+          },
+          {
+            "_id": "5b8643268e41320ecf3a46b6",
+            "name": "HP PETROL PUMP - RANJAN SERVICE STATION",
+            "score": "55",
+            "address": "HPC Dealers,opp. GPO Lucknow, Hazratganj, Lucknow, Uttar Pradesh 226001",
+            "phoneNumber": 98390,
+            "npsScore": "56",
+            "problemeticalArea": [
+              {
+                "_id": "5b8643268e41320ecf3a46b9",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8643268e41320ecf3a46b8",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8643268e41320ecf3a46b7",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b8643488e41320ecf3a46ba",
+            "name": "HP Petrol Pump : Maa Vaishno Filling Centre",
+            "score": "66",
+            "address": "PP -2 Scheme, Kanpur Road, Sector N, Ashiyana, Lucknow, Uttar Pradesh 226012",
+            "phoneNumber": 94151,
+            "npsScore": "67",
+            "problemeticalArea": [
+              {
+                "_id": "5b8643488e41320ecf3a46bd",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8643488e41320ecf3a46bc",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8643488e41320ecf3a46bb",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b86436a8e41320ecf3a46be",
+            "name": "HP Petrol Pump : Kishore Filling Station",
+            "score": "77",
+            "address": "Plot NO 494 , Bataha Saboli(enambagh) Ring Road , Vikasnagar, Lucknow, 226022",
+            "phoneNumber": 94150,
+            "npsScore": "78",
+            "problemeticalArea": [
+              {
+                "_id": "5b86436a8e41320ecf3a46c1",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b86436a8e41320ecf3a46c0",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b86436a8e41320ecf3a46bf",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          }
+        ],
+        "_id": "5b8636a04998ad01b6c3642d",
+        "name": "Lucknow",
+        "__v": 0,
+        "score": "77",
+        "npsScore": "75",
+        "problemeticalArea": [
+          {
+            "_id": "5b8636a04998ad01b6c36430",
+            "name": "toilet",
+            "perDistribution": 22
+          },
+          {
+            "_id": "5b8636a04998ad01b6c3642f",
+            "name": "staff behaviour",
+            "perDistribution": 45
+          },
+          {
+            "_id": "5b8636a04998ad01b6c3642e",
+            "name": "cleanliness",
+            "perDistribution": 50
+          }
+        ]
+      }
+    ],
+    "_id": "5b862eaaf727df7dd496089c",
+    "name": "North",
+    "__v": 0,
+    "score": "22",
+    "npsScore": "65",
+    "problemeticalArea": [
+      {
+        "_id": "5b862eaaf727df7dd496089f",
+        "name": "toilet",
+        "perDistribution": 70
+      },
+      {
+        "_id": "5b862eaaf727df7dd496089e",
+        "name": "staff behaviour",
+        "perDistribution": 80
+      },
+      {
+        "_id": "5b862eaaf727df7dd496089d",
+        "name": "cleanliness",
+        "perDistribution": 55
+      }
+    ]
+  },
+  {
+    "region": [
+      {
+        "pumps": [
+          {
+            "_id": "5b86438d8e41320ecf3a46c2",
+            "name": "Hp Petrol Bunk",
+            "score": "98",
+            "address": "3, SH 104, Kalakkral, Manali New Town, Manali, Chennai, Tamil Nadu 600103",
+            "phoneNumber": null,
+            "npsScore": "97",
+            "problemeticalArea": [
+              {
+                "_id": "5b86438d8e41320ecf3a46c5",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b86438d8e41320ecf3a46c4",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b86438d8e41320ecf3a46c3",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b8643ac8e41320ecf3a46c6",
+            "name": "HP PETROL PUMP - S T ARASU & CO",
+            "score": "85",
+            "address": "Beach Rd, George Town, Chennai, Tamil Nadu 600001",
+            "phoneNumber": 98410,
+            "npsScore": "86",
+            "problemeticalArea": [
+              {
+                "_id": "5b8643ac8e41320ecf3a46c9",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8643ac8e41320ecf3a46c8",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8643ac8e41320ecf3a46c7",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b8643d08e41320ecf3a46ca",
+            "name": "J Garden, Madhavaram",
+            "score": "74",
+            "address": "NH16, J Garden, Madhavaram, Chennai, Tamil Nadu 600060",
+            "phoneNumber": 94443,
+            "npsScore": "75",
+            "problemeticalArea": [
+              {
+                "_id": "5b8643d08e41320ecf3a46cd",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8643d08e41320ecf3a46cc",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8643d08e41320ecf3a46cb",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b8643ef8e41320ecf3a46ce",
+            "name": "HP PETROL PUMP SURESH AGENCIES",
+            "score": "63",
+            "address": "New No 2, Old no 348, Wall Tax Road, George Town, Chennai, Tamil Nadu 600079",
+            "phoneNumber": 98410,
+            "npsScore": "62",
+            "problemeticalArea": [
+              {
+                "_id": "5b8643ef8e41320ecf3a46d1",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8643ef8e41320ecf3a46d0",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8643ef8e41320ecf3a46cf",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b86440e8e41320ecf3a46d2",
+            "name": "HP PETROL PUMP - M/S. ELSHADDAI AGENCIES",
+            "score": "52",
+            "address": "HPC Dealers NO. 41 Ponneri Main Road, Kadappakkam, Chennai, Tamil Nadu 600103",
+            "phoneNumber": 94440,
+            "npsScore": "58",
+            "problemeticalArea": [
+              {
+                "_id": "5b86440e8e41320ecf3a46d5",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b86440e8e41320ecf3a46d4",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b86440e8e41320ecf3a46d3",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          }
+        ],
+        "_id": "5b8636cb4998ad01b6c36435",
+        "name": "Chennai",
+        "score": "44",
+        "npsScore": "48",
+        "problemeticalArea": [
+          {
+            "_id": "5b8636cb4998ad01b6c36438",
+            "name": "toilet",
+            "perDistribution": 22
+          },
+          {
+            "_id": "5b8636cb4998ad01b6c36437",
+            "name": "staff behaviour",
+            "perDistribution": 45
+          },
+          {
+            "_id": "5b8636cb4998ad01b6c36436",
+            "name": "cleanliness",
+            "perDistribution": 50
+          }
+        ],
+        "__v": 0
+      },
+      {
+        "pumps": [
+          {
+            "_id": "5b8644728e41320ecf3a46d6",
+            "name": "Hindustan Petroleum City Service Station-JP Nagar 2nd Phase",
+            "score": "47",
+            "address": "No-52, 100 Ft Ring Road, JP Nagar 2nd Phase, Bengaluru, Karnataka 560076",
+            "phoneNumber": 98452,
+            "npsScore": "50",
+            "problemeticalArea": [
+              {
+                "_id": "5b8644728e41320ecf3a46d9",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8644728e41320ecf3a46d8",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8644728e41320ecf3a46d7",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b8644998e41320ecf3a46da",
+            "name": "14th Main Rd, Sector 4, HSR Layout",
+            "score": "52",
+            "address": "Jakkasandra Cross Road, 1, 14th Main Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102",
+            "phoneNumber": 81475,
+            "npsScore": "51",
+            "problemeticalArea": [
+              {
+                "_id": "5b8644998e41320ecf3a46dd",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8644998e41320ecf3a46dc",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8644998e41320ecf3a46db",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b8644cc8e41320ecf3a46de",
+            "name": "C V Raman Nagar",
+            "score": "64",
+            "address": "Drdo Town Ship, C V Raman Nagar, Bengaluru, Karnataka 560093",
+            "phoneNumber": 93412,
+            "npsScore": "68",
+            "problemeticalArea": [
+              {
+                "_id": "5b8644cc8e41320ecf3a46e1",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8644cc8e41320ecf3a46e0",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8644cc8e41320ecf3a46df",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b8644f28e41320ecf3a46e2",
+            "name": "HP Petrol Pump Vijay Gasoline",
+            "score": "75",
+            "address": "SY NO. 6/1C, Outer Ring Road, Doddanakundi Village, KR Puram, Hobli, Bengaluru, Karnataka 560037",
+            "phoneNumber": 80,
+            "npsScore": "77",
+            "problemeticalArea": [
+              {
+                "_id": "5b8644f28e41320ecf3a46e5",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b8644f28e41320ecf3a46e4",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b8644f28e41320ecf3a46e3",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          },
+          {
+            "_id": "5b86451e8e41320ecf3a46e6",
+            "name": "HP Fuel Station-VARTHUR MAIN ROAD",
+            "score": "80",
+            "address": "45/2 Marathahalli, VARTHUR MAIN ROAD, VARTHUR HOBLI, Bengaluru, Karnataka 560037",
+            "phoneNumber": 98801,
+            "npsScore": "81",
+            "problemeticalArea": [
+              {
+                "_id": "5b86451e8e41320ecf3a46e9",
+                "name": "toilet",
+                "perDistribution": 55
+              },
+              {
+                "_id": "5b86451e8e41320ecf3a46e8",
+                "name": "staff behaviour",
+                "perDistribution": 30
+              },
+              {
+                "_id": "5b86451e8e41320ecf3a46e7",
+                "name": "cleanliness",
+                "perDistribution": 70
+              }
+            ],
+            "__v": 0
+          }
+        ],
+        "_id": "5b8636d94998ad01b6c36439",
+        "name": "Bengaluru",
+        "score": "68",
+        "npsScore": "70",
+        "problemeticalArea": [
+          {
+            "_id": "5b8636d94998ad01b6c3643c",
+            "name": "toilet",
+            "perDistribution": 22
+          },
+          {
+            "_id": "5b8636d94998ad01b6c3643b",
+            "name": "staff behaviour",
+            "perDistribution": 45
+          },
+          {
+            "_id": "5b8636d94998ad01b6c3643a",
+            "name": "cleanliness",
+            "perDistribution": 50
+          }
+        ],
+        "__v": 0
+      }
+    ],
+    "_id": "5b862ef0f727df7dd49608a0",
+    "name": "South",
+    "__v": 0,
+    "score": "70",
+    "npsScore": "89",
+    "problemeticalArea": [
+      {
+        "_id": "5b862ef0f727df7dd49608a3",
+        "name": "toilet",
+        "perDistribution": 50
+      },
+      {
+        "_id": "5b862ef0f727df7dd49608a2",
+        "name": "staff behaviour",
+        "perDistribution": 40
+      },
+      {
+        "_id": "5b862ef0f727df7dd49608a1",
+        "name": "cleanliness",
+        "perDistribution": 60
+      }
+    ]
+  },
+  {
+    "region": [],
+    "_id": "5b862f36f727df7dd49608a4",
+    "name": "All",
+    "__v": 0,
+    "score": "65",
+    "npsScore": "63",
+    "problemeticalArea": [
+      {
+        "_id": "5b862f36f727df7dd49608a7",
+        "name": "toilet",
+        "perDistribution": 50
+      },
+      {
+        "_id": "5b862f36f727df7dd49608a6",
+        "name": "staff behaviour",
+        "perDistribution": 40
+      },
+      {
+        "_id": "5b862f36f727df7dd49608a5",
+        "name": "cleanliness",
+        "perDistribution": 60
+      }
+    ]
+  }
+]
