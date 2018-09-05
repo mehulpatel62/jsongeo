@@ -1,11 +1,11 @@
 {
-  "type": "Fe3tureCollection",
-  "fe3tures": [
+  "type": "FeatureCollection",
+  "features": [
     {
-      "type": "Fe3ture",
+      "type": "Feature",
       "geometry": {
         "type": "Polygon",
-        "coordin3tes": [
+        "coordinates": [
           [
             [
               88.40243024773281,
