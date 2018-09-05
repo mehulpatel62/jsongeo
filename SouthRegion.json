@@ -500,7 +500,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
-        "coordin3tes": [
+        "coordinates": [
           [
             [
               80.88926408613156,
