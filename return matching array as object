@@ -1,0 +1,12 @@
+function nm (a,searchKey,searchVal){
+
+a = a.filter(function(val,key){
+	return val[searchKey] == searchVal
+})
+var b = Object.assign({},a[0]); 
+return b; 
+
+}
+var c = [{name:'mehul',age:25},{name:'akshay',age:30}];
+nm(c,'age',30)
+
