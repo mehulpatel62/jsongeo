@@ -1,4 +1,4 @@
-{"DataSet1":{"sName":"File 01", "arrColumns":[{"sColumnName":"Column 1", "sColumnID":"1"}, {"sColumnName":"Column 2", "sColumnID":"2"}, {"sColumnName":"Column 3", "sColumnID":"3"}, {"sColumnName":"Column 4", "sColumnID":"4"}, {"sColumnName":"Column 5", "sColumnID":"5"}, {"sColumnName":"Column 6", "sColumnID":"6"}]},
+[{"DataSet1":{"sName":"File 01", "arrColumns":[{"sColumnName":"Column 1", "sColumnID":"1"}, {"sColumnName":"Column 2", "sColumnID":"2"}, {"sColumnName":"Column 3", "sColumnID":"3"}, {"sColumnName":"Column 4", "sColumnID":"4"}, {"sColumnName":"Column 5", "sColumnID":"5"}, {"sColumnName":"Column 6", "sColumnID":"6"}]},
 "DataSet2":{"sName":"File 02", "arrColumns":[{"sColumnName":"Column 1", "sColumnID":"1"}, {"sColumnName":"Column 2", "sColumnID":"2"}, {"sColumnName":"Column 3", "sColumnID":"3"}, {"sColumnName":"Column 4", "sColumnID":"4"}, {"sColumnName":"Column 5", "sColumnID":"5"}, {"sColumnName":"Column 6", "sColumnID":"6"}]},
 "DataSet3":{"sName":"File 03", "arrColumns":[{"sColumnName":"Column 1", "sColumnID":"1"}, {"sColumnName":"Column 2", "sColumnID":"2"}, {"sColumnName":"Column 3", "sColumnID":"3"}, {"sColumnName":"Column 4", "sColumnID":"4"}, {"sColumnName":"Column 5", "sColumnID":"5"}, {"sColumnName":"Column 6", "sColumnID":"6"}]}
-}
+}]
